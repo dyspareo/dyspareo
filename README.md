@@ -1,15 +1,32 @@
-# hi Guys, I'm  Sanjo T S here.👋
+# 👋 Hi there, I'm **Sanjo T S**  
 
-## I'm a Student, Developer and Technology Enthusiast
-I Love to Learn New Things
-I Don't like Problems So I Slove It.
+## 🚀 About Me  
+I'm a **student, developer, and tech enthusiast** who loves diving into new technologies and solving challenging problems. My journey is fueled by curiosity and a passion for learning. I believe every problem has a solution, and I enjoy crafting those solutions through code.
 
+---
 
-##My Github Stats
+## 🛠️ Skills & Expertise  
+- **Programming Languages**: Java, Python  
+- **Frameworks & Tools**: Hibernate, Spring, JDBC  
+- **Projects**:  
+  - Developed **ATHENA**, a virtual assistant desktop app using Python and Tkinter.  
+  - Created **TRANSPDF**, a PDF translation tool powered by Google's ML Kit.  
+- **Database Management**: Skilled in integrating Java applications with MySQL databases using JDBC and Hibernate.
 
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyspareo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+## 🌟 GitHub Stats  
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyspareo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dyspareo&hide_border=true" />  
 
-Yours digitally,
-dyspareo ✨
+---
+
+## 💡 Fun Facts  
+- 📚 I'm always on the lookout for exciting opportunities to learn and grow.  
+- 🧩 I approach challenges as puzzles waiting to be solved.  
+
+---
+
+Yours digitally,  
+**Sanjo T S** ✨  
