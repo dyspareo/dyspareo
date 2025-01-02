@@ -17,7 +17,6 @@ I'm a **student, developer, and tech enthusiast** who loves diving into new tech
 
 ## 🌟 GitHub Stats  
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyspareo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dyspareo&hide_border=true" />  
 
 ---
