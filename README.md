@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Sanjo T S**  
+# 👋 Hi there, I'm **Sanjo T S**
 
 ## 🚀 About Me  
 I'm a **student, developer, and tech enthusiast** who loves diving into new technologies and solving challenging problems. My journey is fueled by curiosity and a passion for learning. I believe every problem has a solution, and I enjoy crafting those solutions through code.
@@ -6,6 +6,14 @@ I'm a **student, developer, and tech enthusiast** who loves diving into new tech
 ---
 
 ## 🛠️ Skills & Expertise  
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-brightgreen)
+![Spring](https://img.shields.io/badge/Spring-Beginner-lightgrey)
+![JDBC](https://img.shields.io/badge/JDBC-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Relational-orange)
+
 - **Programming Languages**: Java, Python  
 - **Frameworks & Tools**: Hibernate, Spring, JDBC  
 - **Projects**:  
@@ -15,17 +23,15 @@ I'm a **student, developer, and tech enthusiast** who loves diving into new tech
 
 ---
 
-## 🌟 GitHub Stats  
+## 📊 Usage Chart  
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dyspareo&hide_border=true" />  
+Below is a breakdown of how much I use each technology in my projects:  
 
----
-
-## 💡 Fun Facts  
-- 📚 I'm always on the lookout for exciting opportunities to learn and grow.  
-- 🧩 I approach challenges as puzzles waiting to be solved.  
-
----
-
-Yours digitally,  
-**Sanjo T S** ✨  
+```mermaid
+pie
+    title Skill Usage
+    "Python": 40
+    "Java": 30
+    "Hibernate": 15
+    "JDBC": 10
+    "Spring": 5
