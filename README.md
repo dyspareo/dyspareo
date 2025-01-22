@@ -50,9 +50,3 @@ pie
     "React": 10
     "Hibernate": 10
     "JDBC": 5
-
-style 1 fill:#006400,stroke:#000,stroke-width:1px; // Dark Green for Python
-style 2 fill:#228B22,stroke:#000,stroke-width:1px; // Forest Green for Java
-style 3 fill:#32CD32,stroke:#000,stroke-width:1px; // Lime Green for React
-style 4 fill:#90EE90,stroke:#000,stroke-width:1px; // Light Green for Hibernate
-style 5 fill:#ADFF2F,stroke:#000,stroke-width:1px; // Yellow-Green for JDBC
