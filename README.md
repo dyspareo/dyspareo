@@ -13,7 +13,8 @@ I'm a passionate **student, developer, and technology enthusiast** driven by a d
   ![Java](https://img.shields.io/badge/Java-Intermediate-orange)  
 
 - **Frameworks & Tools**:  
-  ![React](https://img.shields.io/badge/React-Beginner-brightblue)  
+  ![React](https://img.shields.io/badge/React-Beginner-brightblue)
+  ![Nodejs](https://img.shields.io/badge/Nodejs-ORM-brightgreen)  
   ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-brightgreen)  
   ![JDBC](https://img.shields.io/badge/JDBC-Database-blue)  
 
