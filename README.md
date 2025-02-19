@@ -9,8 +9,6 @@ I specialize in **Python, Java, and MySQL**, with experience in **React, Node.js
 
 
 
----
-
 
 
 ## 🛠 **Tech Stack**  
