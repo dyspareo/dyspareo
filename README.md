@@ -1,4 +1,4 @@
-Here’s your **minimalistic and professional** GitHub README with **colorful badges**:  
+Here’s the **updated** GitHub README with **NestJS** added to the **Frameworks & Tools** section. It maintains a **horizontal layout**, a **modern look**, and **professional readability**.  
 
 ---
 
@@ -6,21 +6,30 @@ Here’s your **minimalistic and professional** GitHub README with **colorful ba
 
 🚀 **Developer | Tech Enthusiast | Problem Solver**  
 
-Passionate about building innovative solutions, I specialize in **Python, Java, and MySQL**, with experience in **React, Node.js, Hibernate, and JDBC**. I enjoy turning ideas into functional applications through clean and efficient code.  
+I specialize in **Python, Java, and MySQL**, with experience in **React, Node.js, NestJS, Hibernate, and JDBC**. Passionate about solving problems and building impactful solutions.  
 
 ---
 
 ## 🛠 **Tech Stack**  
 
 ### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>  
 
 ### **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>  
 
 ### **Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
-![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=oracle&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-FF6F00?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>  
+
+---
