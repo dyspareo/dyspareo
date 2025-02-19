@@ -9,7 +9,6 @@ I specialize in **Python, Java, and MySQL**, with experience in **React, Node.js
 
 ## 🛠 **Tech Stack**  
 
-### **Languages & Tools**  
 <p align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="40" height="40"/>
